@@ -4,7 +4,6 @@ A SQL analysis of **Duka Smart Electronics**, a fictional Kenyan retailer sellin
 
 This repository contains my database schema, my answers to 46 business questions, and a written summary of what the data tells management.
 
-> All people and companies in the data are fictional.
 
 ---
 
